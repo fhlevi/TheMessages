@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721931535173",
+    "project_id": "themessage-1bc2b",
+    "storage_bucket": "themessage-1bc2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721931535173:android:7200c13013bfe09054b42c",
+        "android_client_info": {
+          "package_name": "com.themessanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuCi-6irHFmvMcxw6jG1-FyR01ehP8cDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
